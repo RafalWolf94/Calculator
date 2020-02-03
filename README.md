@@ -1,2 +1,1 @@
-# Calculator
-elementary operations:
+"# Csharp-Calculator" 

@@ -1,0 +1,8 @@
+C:\Users\elwol\source\repos\WsgCalc\bin\Debug\WsgCalc.exe.config
+C:\Users\elwol\source\repos\WsgCalc\bin\Debug\WsgCalc.exe
+C:\Users\elwol\source\repos\WsgCalc\bin\Debug\WsgCalc.pdb
+C:\Users\elwol\source\repos\WsgCalc\obj\Debug\WsgCalc.Form1.resources
+C:\Users\elwol\source\repos\WsgCalc\obj\Debug\WsgCalc.Properties.Resources.resources
+C:\Users\elwol\source\repos\WsgCalc\obj\Debug\WsgCalc.csproj.GenerateResource.cache
+C:\Users\elwol\source\repos\WsgCalc\obj\Debug\WsgCalc.exe
+C:\Users\elwol\source\repos\WsgCalc\obj\Debug\WsgCalc.pdb
